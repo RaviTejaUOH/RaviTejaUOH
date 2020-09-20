@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Machine Learning projects
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on Machine Learning projects
