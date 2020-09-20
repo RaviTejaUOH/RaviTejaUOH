@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Probability, statistics, linear algebra, Machine learning.
 - 📫 How to reach me: you can drop me a mail at addakularaviteja@gmail.com
 - 😄 Pronouns: He/Him
--->
